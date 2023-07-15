@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Coffeeshop-OKCoders-Day-8/static/css/main.107ac448.css",
-    "main.js": "/Coffeeshop-OKCoders-Day-8/static/js/main.fc21dc0e.js",
+    "main.js": "/Coffeeshop-OKCoders-Day-8/static/js/main.18420219.js",
     "static/js/787.73284834.chunk.js": "/Coffeeshop-OKCoders-Day-8/static/js/787.73284834.chunk.js",
     "index.html": "/Coffeeshop-OKCoders-Day-8/index.html",
     "main.107ac448.css.map": "/Coffeeshop-OKCoders-Day-8/static/css/main.107ac448.css.map",
-    "main.fc21dc0e.js.map": "/Coffeeshop-OKCoders-Day-8/static/js/main.fc21dc0e.js.map",
+    "main.18420219.js.map": "/Coffeeshop-OKCoders-Day-8/static/js/main.18420219.js.map",
     "787.73284834.chunk.js.map": "/Coffeeshop-OKCoders-Day-8/static/js/787.73284834.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.107ac448.css",
-    "static/js/main.fc21dc0e.js"
+    "static/js/main.18420219.js"
   ]
 }
